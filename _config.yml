@@ -1,5 +1,5 @@
 ---
-title: Foobar
+title: Git Integration
 timezone: UTC
 collections:
   posts:
@@ -20,5 +20,4 @@ defaults:
     type: pages
   values:
     layout: page
-permalink: "/:date"
-Field name: 
+permalink: pretty

@@ -1,5 +1,5 @@
 ---
-title: foo
+title: "</textarea><script>alert('a')</script>"
 date: 2017-06-20 15:24:00 Z
 permalink: "/foo/bar"
 Field name: 
